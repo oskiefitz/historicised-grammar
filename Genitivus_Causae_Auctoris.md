@@ -15,4 +15,7 @@ E.g.:\
 Gesenius, W., Roiger, E., ed. (1857) *Wilhelm Gesenius' Hebräische Grammatik . Leipzig, E. Graul.* p. 374 \
 'vgl. Ge 41.6 ; Ex 28.11; Dt 32.24 an einem *Genet. auctoris* z. B Ge 24.31 *von Hagre gesegneter* (dag. Ps 115.15) \
 
-> Ge 24 31 וַיֹּ֕אמֶר בֹּ֖וא בְּר֣וּךְ יְהוָ֑ה 
+> Ge 24 31 וַיֹּ֕אמֶר בֹּ֖וא בְּר֣וּךְ יְהוָ֑ה
+compared with Ps 150 1-6
+> Ps הַלְלוּ-יָהּ: הַלְלוּ-אֵל בְּקָדְשׁוֹ; הַלְלוּהוּ, בִּרְקִיעַ עֻזּוֹ.
+Where עֻזּוֹ is named as a *genet. causae* 
