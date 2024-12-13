@@ -18,4 +18,5 @@ Gesenius, W., Roiger, E., ed. (1857) *Wilhelm Gesenius' Hebräische Grammatik . 
 > Ge 24 31 וַיֹּ֕אמֶר בֹּ֖וא בְּר֣וּךְ יְהוָ֑ה:\
 compared with Ps 150 1-6:\
 > Ps הַלְלוּ-יָהּ: הַלְלוּ-אֵל בְּקָדְשׁוֹ; הַלְלוּהוּ, בִּרְקִיעַ עֻזּוֹ.:\
-Where עֻזּוֹ is named as a *genet. causae* 
+Where עֻזּוֹ is named as a *genet. causae*
+> 
